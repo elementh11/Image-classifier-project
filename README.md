@@ -6,4 +6,4 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 * The class prediction uses top-k prediction, here the top 5 most probable classes.
 
-* The training and inference are coded into `train.py` and `predict.py` files, which are called using command line.
+* The training and inference are coded into `train.py` and `predict.py` files, which are called using command line with arguments built with the `argparse` module.
